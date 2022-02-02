@@ -1,0 +1,6 @@
+create table if not exists Person (
+  id identity,
+  first_name varchar(50) not null,
+  last_name varchar(50) not null,
+  age smallint
+);
