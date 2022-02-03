@@ -1,11 +1,9 @@
-package com.demo.service.model;
+package com.demo.model;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 import org.junit.jupiter.api.Test;
-
-import com.demo.model.Person;
 
 public class PersonTest {
 
